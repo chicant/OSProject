@@ -1,0 +1,16 @@
+MITTENTE: user1
+OGGETTO: messaggio 1
+TESTO: questo è un messaggio
+
+MITTENTE: user1
+OGGETTO: messaggio 3
+TESTO: messaggio
+
+MITTENTE: user2
+OGGETTO: messaggio 4
+TESTO: Messaggio
+
+MITTENTE: user4
+OGGETTO: nuovo 1
+TESTO: testo messaggio
+
